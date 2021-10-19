@@ -1,0 +1,32 @@
+item { 
+	name:'indian_magic_masala'
+	id:1
+}
+item { 
+	name:'classicsalted'
+	id:2
+}
+item { 
+	name:'hot_and_sweet'
+	id:3
+}
+item { 
+	name:'chile_limon'
+	id:4
+}
+item { 
+	name:'tangy_tomato'
+	id:5
+}
+item { 
+	name:'cream_and_onion'
+	id:6
+}
+item {
+  name:'maxx_sizzling_barbeque'
+  id:7
+}
+item {
+  name:'max_chili'
+  id:8
+}
